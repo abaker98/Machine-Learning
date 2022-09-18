@@ -1,0 +1,29 @@
+
+# folders
+__pycache__
+.vscode
+.ipynb_checkpoints
+.DS_Store
+itcs4156/datasets/data/
+itcs4156.egg-info/
+
+# itcs4156/notebooks/1-linear-regression.ipynb
+# itcs4156/assignments/regression
+
+# itcs4156/notebooks/2-classification.ipynb
+# itcs4156/assignments/classification
+
+# itcs4156/notebooks/3-neural-networks.ipynb
+# itcs4156/assignments/neural_networks
+
+itcs4156/notebooks/4-deep-learning.ipynb
+itcs4156/notebooks/4-deep-learning-colab.ipynb
+itcs4156/assignments/deep_learning
+solution/
+scripts/
+
+# Generated from README
+Instructions.html
+readme-config.yaml
+readme-template.md
+
